@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "website by Aryash and team",
+  "main": "index.js",
+  "author": "Aryash Jain <aryash.enu@gmail.com>",
+  "license": "MIT"
 }
